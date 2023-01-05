@@ -1,0 +1,8 @@
+.first {
+    color: red;
+    font-size: 22px;
+}
+
+.first:hover {
+    color: green;
+}
